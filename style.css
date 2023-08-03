@@ -1,0 +1,26 @@
+table td,
+table th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.btn-styled{
+    background-color: red;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+#addButton,
+#addUser{
+    background-color: green;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+input{
+    width: 99%;
+}
+
+.red{
+    border-color: red;
+}
